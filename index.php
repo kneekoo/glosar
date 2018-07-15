@@ -70,21 +70,6 @@
             </tbody>
         </table>
     </div>
-<?php
-/*
-error_reporting(E_ALL);
-ini_set("display_errors", 1);
-
-$data = 201808;
-
-echo substr_replace($data, "-", 4, 0) . "<br>";
-
-$prezent = new DateTime(date("Y-m"));
-$dataExpirarii = new DateTime("2018-08");
-$diff = $prezent->diff($dataExpirarii);
-print_r($diff);
-*/
-?>
     <script src="/glosar/glosar-js.php"></script>
 </body>
 </html>
