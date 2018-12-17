@@ -1,6 +1,6 @@
 # Glosarul i18n.ro
 
-Glosarul original i18n.ro a depins de un framework ([JPSpan](https://sourceforge.net/projects/jpspan/files/JPSpan/)) care nu mai este întreținut din 2005. Având în vedere progresul tehnologic de peste un deceniu, funcțiile existente în glosar pot fi replicate mai ușor. Astfel, modernizarea JPSpan pentru compatibilitatea cu PHP 7.x nu este nejustificată.
+Glosarul original i18n.ro a depins de un framework ([JPSpan](https://sourceforge.net/projects/jpspan/files/JPSpan/)) care nu mai este întreținut din 2005. Având în vedere progresul tehnologic de peste un deceniu, funcțiile existente în glosar pot fi replicate mai ușor și modernizarea JPSpan pentru compatibilitatea cu PHP 7.x nu este justificată.
 
 Vechiul glosar poate fi accesat la adresa http://l10n.ro/glosar/
 Noul glosar poate fi accesat temporar la adresa https://phpfusionro.hopto.org/glosar/
